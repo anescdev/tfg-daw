@@ -13,4 +13,4 @@ Unos de los principales objetivos además de ofrecer un buen servicio y una ampl
 
 ## Memoria del proyecto
 
-El proyecto y su memoria ha sido documentado en la misma [Wiki](./wiki) del repositorio.
+El proyecto y su memoria ha sido documentado en la misma [Wiki](https://github.com/anescdev/tfg-daw/wiki) del repositorio.
